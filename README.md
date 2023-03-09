@@ -28,8 +28,10 @@ pip install numpy seaborn matplotlib pandas Pillow requests ipython regex plotly
 
 ---
 ## References:
-* [Cover Image](https://www.mots.go.th/news/category/470)
-* [Ministry of Tourism and Sports -  International Tourist Arrivals to Thailand 2014](https://www.mots.go.th/news/category/476)
+* [Cover Image](https://wallpaperaccess.com/full/4602804.jpg)
+* [Kaggle - Scraped data_Grand Turismo 7 (PrasertCBS)](https://www.kaggle.com/datasets/prasertk/gran-turismo-7-car-list)
+* [KUDOSPRIME - Data Source (as of 26-Mar-2022)](https://www.kudosprime.com/gt7/carlist.php)
+* [GTPlanet - Information about Transmission types (Answered by JockeP22 in respond #4)](https://www.gtplanet.net/forum/threads/ff-fr-mr.327739/)
 
 ---
 ## Remark
