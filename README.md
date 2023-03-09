@@ -16,7 +16,7 @@ The author utilize seaborn correlation graphs to show the relationship between t
 ---
 ## Notebook File
 
-* [Click here to access Python Notebook File (Kaggle)]([https://github.com/sc-matthew/Pandas_Project/blob/main/TH_Tourism_Inflation.ipynb](https://www.kaggle.com/code/suramatec/6341232926-eda-gran-turismo))
+* [Click here to access Python Notebook File (Kaggle) - Preferred](https://www.kaggle.com/code/suramatec/6341232926-eda-gran-turismo)
 * [Click here to access Python Notebook File (Github)](https://github.com/sc-matthew/Pandas_Project/blob/main/TH_Tourism_Inflation.ipynb)
 
 ---
