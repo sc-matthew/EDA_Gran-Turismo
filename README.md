@@ -27,10 +27,11 @@ pip install numpy seaborn matplotlib pandas Pillow requests ipython regex plotly
 * [Click here to access Python Notebook File (Github)](https://github.com/sc-matthew/Pandas_Project/blob/main/TH_Tourism_Inflation.ipynb)
 
 ---
-## References:
+## References and special thanks to:
 * [Cover Image](https://wallpaperaccess.com/full/4602804.jpg)
 * [Kaggle - Scraped data_Grand Turismo 7 (PrasertCBS)](https://www.kaggle.com/datasets/prasertk/gran-turismo-7-car-list)
 * [KUDOSPRIME - Data Source (as of 26-Mar-2022)](https://www.kudosprime.com/gt7/carlist.php)
+* [Github - Car Manufacturers list (pcgeek86)](https://gist.github.com/pcgeek86/78f4cad29dd16961ceeeee654127a0db)
 * [GTPlanet - Information about Transmission types (Answered by JockeP22 in respond #4)](https://www.gtplanet.net/forum/threads/ff-fr-mr.327739/)
 
 ---
