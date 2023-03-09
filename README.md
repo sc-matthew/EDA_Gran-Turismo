@@ -23,8 +23,8 @@ pip install numpy seaborn matplotlib pandas Pillow requests ipython regex plotly
 ---
 ## Notebook File
 
-* [Click here to access Python Notebook File (Kaggle) - Preferred](https://www.kaggle.com/code/suramatec/6341232926-eda-gran-turismo)
-* [Click here to access Python Notebook File (Github)](https://github.com/sc-matthew/Pandas_Project/blob/main/TH_Tourism_Inflation.ipynb)
+* [Click here to access Python Notebook File (Kaggle) - Suggested](https://www.kaggle.com/code/suramatec/6341232926-eda-gran-turismo)
+* [Click here to access Python Notebook File (Github)](https://github.com/sc-matthew/EDA_Gran-Turismo/blob/main/eda_grand_turismo.ipynb)
 
 ---
 ## References and special thanks to:
