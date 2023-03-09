@@ -4,6 +4,7 @@
 ---
 
 <img src="https://wallpaperaccess.com/full/4602804.jpg" weight="800" height="400">
+
 ---
 ## Introduction
 Gran Turismo 7 is a popular racing simulation video game developed by Polyphony Digital and published by Sony Interactive Entertainment. Many players have played this game and curious about which car is the best to use. The author aims to conduct comprehensive analyses from multiple dimensions to provide insightful information to the audience.
